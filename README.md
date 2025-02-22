@@ -1,1 +1,1 @@
-# web-d-practicle
+# web-d-practical
